@@ -1,0 +1,284 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Эфирные каналы" ,Первый канал
+udp://@230.3.3.134:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,Первый канал HD
+udp://@230.3.4.152:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,Россия 1
+udp://@230.3.3.130:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,ТВ Центр
+udp://@230.3.4.94:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,НТВ
+udp://@230.3.3.125:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,РЕН ТВ
+udp://@230.3.3.135:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,СТС
+udp://@230.3.3.242:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,ТВ-3
+udp://@230.3.4.171:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,ТНТ
+udp://@230.3.3.188:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,ТНТ4
+udp://@230.3.3.1:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,Че
+udp://@230.3.4.146:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,Домашний
+udp://@230.3.4.32:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,Звезда
+udp://@230.3.3.128:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,Ю
+udp://@230.3.4.254:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,ЮМОР TV
+udp://@230.3.3.240:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,ПЯТНИЦА!
+udp://@230.3.3.126:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,Пятый канал
+udp://@230.3.4.97:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,Парк Развлечений
+udp://@230.3.3.88:5678
+
+#EXTINF:-1 group-title="Эфирные каналы" ,ОТР
+udp://@230.3.4.59:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,Россия К
+udp://@230.3.3.131:5678
+#EXTINF:-1 group-title="Эфирные каналы" ,Россия HD
+udp://@230.3.3.251:5678
+
+#EXTINF:-1 group-title="Природа" ,Авто Плюс
+udp://@230.3.4.39:5678
+#EXTINF:-1 group-title="Природа" ,Охотник и рыболов HD
+udp://@230.3.3.201:5678
+#EXTINF:-1 group-title="Природа" ,Nat Geo Wild HD
+udp://@230.3.3.246:5678
+#EXTINF:-1 group-title="Природа" ,National Geographic HD
+udp://@230.3.4.0:5678
+#EXTINF:-1 group-title="Природа" ,National Geographic
+udp://@230.3.4.218:5678
+#EXTINF:-1 group-title="Природа" ,Nat Geo Wild
+udp://@230.3.3.95:5678
+#EXTINF:-1 group-title="Природа" ,Viasat Explore
+udp://@230.3.3.99:5678
+#EXTINF:-1 group-title="Природа" ,Viasat History
+udp://@230.3.3.100:5678
+#EXTINF:-1 group-title="Природа" ,Viasat Nature
+udp://@230.3.4.114:5678
+#EXTINF:-1 group-title="Природа" ,Zоопарк
+udp://@230.3.4.239:5678
+#EXTINF:-1 group-title="Природа" ,Планета HD
+udp://@230.3.4.222:5678
+#EXTINF:-1 group-title="Природа" ,Russian Travel Guide
+udp://@230.3.4.100:5678
+#EXTINF:-1 group-title="Природа" ,Russian Travel Guide HD
+udp://@230.3.4.177:5678
+#EXTINF:-1 group-title="Природа" ,Моя Планета
+udp://@230.3.4.106:5678
+#EXTINF:-1 group-title="Образование" ,Наука 2.0
+udp://@230.3.4.104:5678
+#EXTINF:-1 group-title="Образование" ,24 Техно
+udp://@230.3.4.103:5678
+#EXTINF:-1 group-title="Образование" ,Оружие
+udp://@230.3.4.208:5678
+#EXTINF:-1 group-title="Образование" ,Первый образовательный
+udp://@230.3.3.103:5678
+#EXTINF:-1 group-title="Образование" ,Радость моя
+udp://@230.3.3.104:5678
+#EXTINF:-1 group-title="Образование" ,24 Док
+udp://@230.3.4.134:5678
+
+#EXTINF:-1 group-title="Фильмы" ,AMC
+udp://@230.3.4.168:5678
+#EXTINF:-1 group-title="Фильмы" ,TV1000
+udp://@230.3.3.98:5678
+#EXTINF:-1 group-title="Фильмы" ,TV1000 Русское кино
+udp://@230.3.3.102:5678
+#EXTINF:-1 group-title="Фильмы" ,TV1000 Action
+udp://@230.3.3.97:5678
+#EXTINF:-1 group-title="Фильмы" ,Дом кино
+udp://@230.3.4.108:5678
+#EXTINF:-1 group-title="Фильмы" ,Кинохит
+udp://@230.3.4.65:5678
+#EXTINF:-1 group-title="Фильмы" ,Эгоист ТВ
+udp://@230.3.4.123:5678
+#EXTINF:-1 group-title="Фильмы" ,ЕвроКино
+udp://@230.3.4.241:5678
+#EXTINF:-1 group-title="Фильмы" ,Русский детектив
+udp://@230.3.4.221:5678
+#EXTINF:-1 group-title="Фильмы" ,Русский роман
+udp://@230.3.4.112:5678
+#EXTINF:-1 group-title="Фильмы" ,AMEDIA 1
+udp://@230.3.4.92:5678
+#EXTINF:-1 group-title="Фильмы" ,AMEDIA 2
+udp://@230.3.4.188:5678
+#EXTINF:-1 group-title="Фильмы" ,КИНО ПЛЮС
+udp://@230.3.4.120:5678
+#EXTINF:-1 group-title="Фильмы" ,НСТ
+udp://@230.3.4.133:5678
+#EXTINF:-1 group-title="Фильмы" ,Иллюзион+
+udp://@230.3.3.85:5678
+#EXTINF:-1 group-title="Фильмы" ,Русский Иллюзион
+udp://@230.3.4.236:5678
+#EXTINF:-1 group-title="Фильмы" ,Феникс плюс Кино
+udp://@230.3.4.215:5678
+#EXTINF:-1 group-title="Фильмы" ,Индия ТВ
+udp://@230.3.3.57:5678
+#EXTINF:-1 group-title="Фильмы" ,Комедия ТВ
+udp://@230.3.3.56:5678
+#EXTINF:-1 group-title="Фильмы" ,Много ТВ
+udp://@230.3.3.59:5678
+#EXTINF:-1 group-title="Фильмы" ,Мужское кино
+udp://@230.3.3.60:5678
+#EXTINF:-1 group-title="Фильмы" ,Киноклуб
+udp://@230.3.4.60:5678
+#EXTINF:-1 group-title="Фильмы" ,Наше новое кино
+udp://@230.3.4.64:5678
+#EXTINF:-1 group-title="Фильмы" ,HD Кино
+udp://@230.3.4.62:5678
+#EXTINF:-1 group-title="Фильмы" ,FOX
+udp://@230.3.3.96:5678
+#EXTINF:-1 group-title="Фильмы" ,FOX Life
+udp://@230.3.3.124:5678
+#EXTINF:-1 group-title="Фильмы" ,FOX HD
+udp://@230.3.4.3:5678
+#EXTINF:-1 group-title="Фильмы" ,FOX Life HD
+udp://@230.3.4.4:5678
+#EXTINF:-1 group-title="Фильмы" ,Премьера
+udp://@230.3.4.66:5678
+
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Игра HD
+udp://@230.3.4.70:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Арена HD
+udp://@230.3.4.119:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч ТВ
+udp://@230.3.4.102:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч ТВ HD
+udp://@230.3.4.154:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Арена
+udp://@230.3.4.109:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Боец
+udp://@230.3.3.62:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Игра
+udp://@230.3.4.105:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Наш Спорт
+udp://@230.3.4.73:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Футбол 1
+udp://@230.3.4.61:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Футбол 2
+udp://@230.3.4.67:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Футбол 3
+udp://@230.3.4.68:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Футбол 1 HD
+udp://@230.3.4.72:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Футбол 2 HD
+udp://@230.3.4.81:5678
+#EXTINF:-1 group-title="СПОРТ" ,Матч! Футбол 3 HD
+udp://@230.3.4.82:5678
+#EXTINF:-1 group-title="СПОРТ" ,Наш Футбол
+udp://@230.3.4.29:5678
+#EXTINF:-1 group-title="СПОРТ" ,Наш Футбол HD
+udp://@230.3.4.175:5678
+#EXTINF:-1 group-title="СПОРТ" ,КХЛ ТВ
+udp://@230.3.4.57:5678
+#EXTINF:-1 group-title="СПОРТ" ,Русский экстрим
+udp://@230.3.4.184:5678
+#EXTINF:-1 group-title="СПОРТ" ,Brazzers TV Europe
+udp://@230.3.4.143:5678
+#EXTINF:-1 group-title="СПОРТ" ,Frenchlover TV
+udp://@230.3.4.89:5678
+#EXTINF:-1 group-title="СПОРТ" ,Русская ночь
+udp://@230.3.4.110:5678
+
+#EXTINF:-1 group-title="Детские" ,Телеканал 2х2
+udp://@230.3.4.22:5678
+#EXTINF:-1 group-title="Детские" ,TiJi
+udp://@230.3.4.78:5678
+#EXTINF:-1 group-title="Детские" ,Ani
+udp://@230.3.4.220:5678
+#EXTINF:-1 group-title="Детские" ,Мульт
+udp://@230.3.4.223:5678
+#EXTINF:-1 group-title="Детские" ,Disney
+udp://@230.3.4.101:5678
+#EXTINF:-1 group-title="Детские" ,Карусель
+udp://@230.3.4.126:5678
+#EXTINF:-1 group-title="Детские" ,Детский
+udp://@230.3.3.84:5678
+#EXTINF:-1 group-title="Детские" ,Мультимания
+udp://@230.3.4.228:5678
+#EXTINF:-1 group-title="Детские" ,Мама
+udp://@230.3.3.83:5678
+
+#EXTINF:-1 group-title="Музыкальные" ,FTV Russia
+udp://@230.3.4.23:5678
+#EXTINF:-1 group-title="Музыкальные" ,BRIDGE TV
+udp://@230.3.4.169:5678
+#EXTINF:-1 group-title="Музыкальные" ,Муз-ТВ
+udp://@230.3.4.7:5678
+#EXTINF:-1 group-title="Музыкальные" ,MUSICBOX
+udp://@230.3.3.151:5678
+#EXTINF:-1 group-title="Музыкальные" ,RU.TV
+udp://@230.3.4.58:5678
+#EXTINF:-1 group-title="Музыкальные" ,Европа Плюс ТВ
+udp://@230.3.4.53:5678
+#EXTINF:-1 group-title="Музыкальные" ,RUSONG TV
+udp://@230.3.4.80:5678
+#EXTINF:-1 group-title="Музыкальные" ,RUSSIAN MUSICBOX
+udp://@230.3.4.128:5678
+#EXTINF:-1 group-title="Музыкальные" ,STV
+udp://@230.3.4.192:5678
+#EXTINF:-1 group-title="Музыкальные" ,Bridge TV
+udp://@230.3.4.79:5678
+#EXTINF:-1 group-title="Музыкальные" ,Музыка Первого
+udp://@230.3.4.99:5678
+#EXTINF:-1 group-title="Музыкальные" ,Ля-Минор
+udp://@230.3.4.52:5678
+#EXTINF:-1 group-title="Музыкальные" ,Ностальгия
+udp://@230.3.4.96:5678
+#EXTINF:-1 group-title="Музыкальные" ,Шансон ТВ
+udp://@230.3.3.244:5678
+
+#EXTINF:-1 group-title="Новости" ,365 дней ТВ
+udp://@230.3.4.38:5678
+#EXTINF:-1 group-title="Новости" ,Кто есть Кто
+udp://@230.3.4.122:5678
+#EXTINF:-1 group-title="Новости" ,Кухня ТВ
+udp://@230.3.4.37:5678
+#EXTINF:-1 group-title="Новости" ,Телекафе
+udp://@230.3.4.116:5678
+#EXTINF:-1 group-title="Новости" ,Сарафан
+udp://@230.3.4.107:5678
+#EXTINF:-1 group-title="Новости" ,Страна
+udp://@230.3.4.127:5678
+#EXTINF:-1 group-title="Новости" ,РБК
+udp://@230.3.4.125:5678
+#EXTINF:-1 group-title="Новости" ,Союз
+udp://@230.3.3.65:5678
+#EXTINF:-1 group-title="Новости" ,Спас
+udp://@230.3.4.167:5678
+#EXTINF:-1 group-title="Новости" ,Мир
+udp://@230.3.4.205:5678
+#EXTINF:-1 group-title="Новости" ,Мир 24
+udp://@230.3.4.77:5678
+#EXTINF:-1 group-title="Новости" ,Мир HD
+udp://@230.3.4.12:5678
+#EXTINF:-1 group-title="Новости" ,ТНВ-Планета
+udp://@230.3.4.204:5678
+#EXTINF:-1 group-title="Новости" ,ТРО
+udp://@230.3.4.203:5678
+#EXTINF:-1 group-title="Новости" ,RT Doc HD
+udp://@230.3.4.156:5678
+#EXTINF:-1 group-title="Новости" ,Russia Today
+udp://@230.3.4.159:5678
+#EXTINF:-1 group-title="Новости" ,Russia Today HD
+udp://@230.3.4.151:5678
+#EXTINF:-1 group-title="Новости" ,Москва 24
+udp://@230.3.4.51:5678
+#EXTINF:-1 group-title="Новости" ,Lifenews
+udp://@230.3.4.189:5678
+#EXTINF:-1 group-title="Новости" ,Москва Доверие
+udp://@230.3.3.241:5678
+#EXTINF:-1 group-title="Новости" ,360° Подмосковье HD
+udp://@230.3.4.11:5678
+#EXTINF:-1 group-title="Новости" ,Россия 24
+udp://@230.3.3.252:5678
+#EXTINF:-1 group-title="Новости" ,Время
+udp://@230.3.4.115:5678
+#EXTINF:-1 group-title="Новости" ,Вместе-РФ
+udp://@230.3.4.93:5678
